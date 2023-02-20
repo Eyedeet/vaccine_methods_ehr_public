@@ -1,0 +1,564 @@
+MedCodeId,Term,given,booster,pertussis
+106633301000001115,Diphtheria / Tetanus vaccine (adsorbed) for adults and adolescents suspension for injection 0.5ml pre-filled syringes,,,
+105144401000001110,Diphtheria/Tetanus/Pertussis(acellular component)/Hepatitis B(surface antigen)/Poliomyelitis(inactivated)/Haemophilus type b conjugate vaccine (adsorbed) powder and suspension for suspension for injection 0.5ml pfs 1 pre-filled disposable inj,,,1.0
+105098801000001115,Infanrix Hexa vaccine powder and suspension for suspension for injection 0.5ml pre-filled syringes (GlaxoSmithKline UK Ltd),,,1.0
+105139601000001113,Infanrix Hexa vaccine powder and suspension for suspension for injection 0.5ml pre-filled syringes (GlaxoSmithKline UK Ltd) 1 pre-filled disposable injection,,,1.0
+105288101000001115,Diphtheria / Tetanus / Pertussis (acellular component) / Hepatitis B (surface antigen) / Poliomyelitis (inactivated) / Haemophilus type b conjugate vaccine (adsorbed) powder and suspension for suspension for injection 0.5ml pre-filled syringes,,,1.0
+105061401000001110,Diphtheria + Tetanus + Pertussis + Hepatitis B + Poliomyelitis + Haemophilus influenzae type B vaccine,,,1.0
+11912241000006111,[V]Pertussis vaccination,,,1.0
+11913011000006113,[V]Tetanus toxoid vaccination,,,
+11913361000006113,[V]Whooping cough vaccination,,,
+11950641000006118,Diphtheria / Tetanus vaccine (adsorbed) for adults and adolescents suspension for injection 0.5ml pre-filled syringes,,,
+12042051000006118,Haemophilus b polysaccharide 10micrograms/tetanus toxoid 30micrograms powder for conventional release solution for injection vial,,,
+12113881000006112,Administration of diphtheria + tetanus + acellular pertussis vaccine,1.0,,1.0
+12113941000006111,Administration of diphtheria + tetanus + acellular pertussis + hepatitis B + inactivated polio virus vaccine,1.0,,1.0
+12113971000006115,"Administration of diphtheria and tetanus vaccine, less than 7 years of age",1.0,,
+12122001000006110,Diphtheria / Tetanus / Poliomyelitis (inactivated) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,,,
+12122071000006116,Diphtheria (low dose) / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,,,1.0
+12127601000006116,Administration of diphtheria + tetanus + acellular pertussis + inactivated poliovirus vaccine,1.0,,1.0
+12127631000006112,"Administration of tetanus, diphtheria, and acellular pertussis vaccine",1.0,,1.0
+12457431000006111,[V]Diphtheria-tetanus-pertussis with poliomyelitis (DTP + polio) vaccination,,,1.0
+12457441000006118,[V]Diphtheria-tetanus-pertussis with typhoid-paratyphoid (DTP + TAB) vaccination,,,1.0
+12457451000006116,"[V]Diphtheria-tetanus-pertussis, combined (DTP) vaccination",,,1.0
+12639561000006111,Tetanus vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,,,
+12681331000006117,"First diphtheria, tetanus, whooping cough, Hib (Haemophilus influenzae type b), polio and hepatitis B vaccination",,,1.0
+12681341000006110,"Second diphtheria, tetanus, whooping cough, Hib (Haemophilus influenzae type b), polio and hepatitis B vaccination",,,1.0
+12681351000006112,"Third diphtheria, tetanus, whooping cough, Hib (Haemophilus influenzae type b), polio and hepatitis B vaccination",,,1.0
+13484131000006112,Administration of diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccine,1.0,,1.0
+13484141000006119,Diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus immunisation,,,1.0
+13484151000006117,Diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccination,,,1.0
+13484161000006115,Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus antigens,1.0,,1.0
+13484171000006110,Administration of first dose of diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccine,1.0,,1.0
+13484181000006113,Administration of first dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus antigens,1.0,,1.0
+13484191000006111,First diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus immunisation,,,1.0
+13484201000006114,First diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccination,,,1.0
+13484211000006112,Administration of second dose of diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccine,1.0,,1.0
+13484221000006116,Second diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccination,,,1.0
+13484231000006118,Second diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus immunisation,,,1.0
+13484241000006111,Administration of second dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus antigens,1.0,,1.0
+13484251000006113,Administration of third dose of diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccine,1.0,,1.0
+13484261000006110,Third diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccination,,,1.0
+13484271000006115,Third diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus immunisation,,,1.0
+13484281000006117,Administration of third dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus antigens,1.0,,1.0
+13484411000006113,Administration of diphtheria and Haemophilus influenzae type B and pertussis and tetanus vaccine,1.0,,1.0
+13484421000006117,Diphtheria and Haemophilus influenzae type B and pertussis and tetanus vaccination,,,1.0
+13484431000006119,Diphtheria and Haemophilus influenzae type B and pertussis and tetanus immunisation,,,1.0
+13484441000006112,Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B antigens,1.0,,1.0
+13484921000006112,"Administration diphtheria, poliomyelitis, and tetanus vaccine",1.0,,
+13484931000006110,"Diphtheria, poliomyelitis, and tetanus immunisation",,,
+13484941000006117,"Diphtheria, poliomyelitis, and tetanus vaccination",,,
+13484951000006115,Administration of vaccine product containing only Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens,1.0,,
+13484961000006118,Administration of diphtheria and pertussis and poliomyelitis and tetanus vaccine,1.0,,1.0
+13484971000006113,Diphtheria and pertussis and poliomyelitis and tetanus vaccination,,,1.0
+13484981000006111,Diphtheria and pertussis and poliomyelitis and tetanus immunisation,,,1.0
+13484991000006114,Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens,1.0,,1.0
+13485801000006112,Administration of low dose diphtheria and tetanus vaccine,1.0,1.0,
+13485811000006110,Administration of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae antigens,1.0,1.0,1.0
+13485821000006119,Low dose diphtheria and tetanus immunisation,,1.0,
+13485831000006116,Low dose diphtheria and tetanus vaccination,,1.0,1.0
+13486031000006118,"Diphtheria, tetanus and acellular pertussis vaccination given",1.0,,1.0
+13486071000006115,Diphtheria and tetanus vaccination given,1.0,,
+13486801000006116,Administration of booster dose of diphtheria and acellular pertussis and poliomyelitis and tetanus vaccine,1.0,1.0,1.0
+13486811000006118,Administration of booster dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens,1.0,1.0,1.0
+13486821000006114,Booster diphtheria and acellular pertussis and poliomyelitis and tetanus immunisation,,1.0,1.0
+13486831000006112,Booster diphtheria and acellular pertussis and poliomyelitis and tetanus vaccination,,1.0,1.0
+13486841000006119,Administration of first dose of low dose diphtheria and tetanus vaccine,1.0,1.0,
+13486851000006117,Administration of first dose of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae antigens,1.0,1.0,
+13486861000006115,First low dose diphtheria and tetanus immunisation,,1.0,
+13486871000006110,First low dose diphtheria and tetanus vaccination,,1.0,
+13486881000006113,Administration of second dose of low dose diphtheria and tetanus vaccine,,,
+13486891000006111,Administration of second dose of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae antigens,,1.0,
+13486901000006110,Second low dose diphtheria and tetanus vaccination,,1.0,
+13486911000006113,Second low dose diphtheria and tetanus immunisation,,1.0,
+13486921000006117,Administration of third dose of low dose diphtheria and tetanus vaccine,1.0,1.0,
+13486931000006119,Third low dose diphtheria and tetanus vaccination,,1.0,
+13486941000006112,Administration of third dose of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae antigens,1.0,1.0,
+13486951000006114,Third low dose diphtheria and tetanus immunisation,,1.0,
+13486961000006111,Administration of booster dose of low dose diphtheria and tetanus vaccine,1.0,1.0,
+13486971000006116,Administration of booster dose of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae antigens,1.0,1.0,
+13486981000006118,Booster low dose diphtheria and tetanus immunisation,,1.0,
+13486991000006115,Booster low dose diphtheria and tetanus vaccination,,1.0,
+13487001000006111,Administration of first dose of diphtheria and acellular pertussis and poliomyelitis and tetanus vaccine,1.0,1.0,1.0
+13487011000006114,Administration of first dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens,1.0,1.0,1.0
+13487021000006118,First diphtheria and acellular pertussis and poliomyelitis and tetanus vaccination,,,1.0
+13487031000006115,First diphtheria and acellular pertussis and poliomyelitis and tetanus immunisation,,,1.0
+13487041000006113,Administration of second dose of diphtheria and acellular pertussis and poliomyelitis and tetanus vaccine,1.0,,1.0
+13487051000006110,Administration of second dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens,1.0,,1.0
+13487061000006112,Second diphtheria and acellular pertussis and poliomyelitis and tetanus vaccination,,,1.0
+13487071000006117,Second diphtheria and acellular pertussis and poliomyelitis and tetanus immunisation,,,1.0
+13487081000006119,Administration of third dose of diphtheria and acellular pertussis and poliomyelitis and tetanus vaccine,1.0,,1.0
+13487091000006116,Administration of third dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens,1.0,,1.0
+13487101000006110,Third diphtheria and acellular pertussis and poliomyelitis and tetanus vaccination,,,1.0
+13487111000006113,Third diphtheria and acellular pertussis and poliomyelitis and tetanus immunisation,,,1.0
+13487121000006117,Administration of low dose diphtheria and inactivated poliomyelitis and tetanus vaccine,1.0,,
+13487131000006119,Administration of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae and inactivated Human poliovirus antigens,1.0,,
+13487141000006112,Low dose diphtheria and inactivated poliomyelitis and tetanus immunisation,,1.0,
+13487151000006114,Low dose diphtheria and inactivated poliomyelitis and tetanus vaccination,,1.0,
+13487161000006111,Administration of diphtheria and acellular pertussis and inactivated poliomyelitis and tetanus vaccine,1.0,,1.0
+13487171000006116,Administration of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and inactivated whole Human poliovirus antigens,1.0,,1.0
+13487181000006118,Diphtheria and acellular pertussis and inactivated poliomyelitis and tetanus vaccination,,,1.0
+13487191000006115,Diphtheria and acellular pertussis and inactivated poliomyelitis and tetanus immunisation,,,1.0
+7363331000006112,Acellular pertussis vaccine,,,1.0
+8720201000006117,Act-HIB DTP vaccine injection pack (sanofi pasteur MSD Ltd),,,1.0
+8720231000006113,Act-HIB DTP vaccine injection pack (sanofi pasteur MSD Ltd) 1 dose 1 pre-filled syringe + 1 vial,,,1.0
+6166421000006117,Adsorbed diphtheria+tetanus vaccine injection suspension 0.5mL prefilled syringe,,,
+6166441000006112,Adsorbed diphtheria+tetanus vaccine(for adults and adolescents) injection suspension 0.5mL prefilled syringe,,,
+6166451000006114,Adsorbed diphtheria+tetanus vaccine(for adults and adolescents) injection suspension 0.5mL ampoule,,,
+6166461000006111,Adsorbed diphtheria+tetanus vaccine(for adults and adolescents) injection suspension 0.5mL ampule,,,
+6166471000006116,Adsorbed diphtheria+tetanus vaccine(for adults and adolescents) injection suspension 0.5mL vial,,,
+6166741000006115,Adsorbed tetanus vaccine prefilled syringe,,,
+6166751000006118,Adsorbed tetanus vaccine injection solution prefilled syringe,,,
+6184461000006115,Adsorbed diphtheria+tetanus vaccine injection suspension vial,,,
+6184471000006110,Adsorbed diphtheria+tetanus vaccine injection,,,
+6185821000006112,Adsorbed tetanus vaccine injection solution ampoule,,,
+6185831000006110,Adsorbed tetanus vaccine injection amp,,,
+6185841000006117,Adsorbed tetanus vaccine injection solution ampule,,,
+6196211000006110,Adsorbed diphtheria vaccine adult injection,,,
+6196221000006119,Adsorbed diphtheria vaccine adult injection suspension vial,,,
+6196781000006112,Adsorbed diphtheria vaccine child injection suspension vial,,,
+6196791000006110,Adsorbed diphtheria vaccine child injection,,,
+6637041000006113,Adsorbed diphtheria+tetanus+pertussis vaccine injection 7.5mL vial,,,1.0
+6642521000006111,Adsorbed diphtheria+tetanus+pertussis vaccine injection 0.5mL vial,,,1.0
+6642531000006114,Adsorbed diphtheria+tetanus+pertussis vaccine injection,,,1.0
+10836621000006114,Boostrix-IPV suspension for injection 0.5ml pre-filled syringes (GlaxoSmithKline UK Ltd),,,1.0
+10836671000006110,Boostrix-IPV suspension for injection 0.5ml pre-filled syringes (GlaxoSmithKline UK Ltd) 1 pre-filled disposable injection,,,1.0
+4633231000006110,Booster diphtheria and tetanus double vaccination,,1.0,
+4633341000006112,Booster diphtheria and tetanus double and polio vaccination,,1.0,
+6515331000006111,"Booster diphtheria, tetanus and acellular pertussis vaccination",,1.0,1.0
+6515601000006114,"Booster diphtheria, tetanus, acellular pertussis and polio vaccination",,1.0,1.0
+8100321000006118,Booster DTaP (diphtheria tetanus and five component acellular pertussis) IPV (inactivated polio vaccination) Hib (haemophilus influenzae type b) vaccination,,1.0,1.0
+9474711000006112,Boostrix-IPV,,,1.0
+3689891000006117,Diphtheria and tetanus double vaccination,,,
+3746901000006113,Diphtheria immunization,,,
+3746921000006115,Diphtheria immunisation,,,
+5517881000006110,Diphtheria and tetanus double and polio vaccination,,,
+6022211000006114,"Diphtheria, tetanus, pertussis, polio and haemophilus influenza B vaccination",,,1.0
+6166411000006113,Diphtheria antitoxin vaccine injection,,,
+6166431000006119,Diphtheria / Tetanus vaccine (adsorbed) for adults and adolescents suspension for injection 0.5ml pre-filled syringes,,,
+6166901000006119,Diphtheria / Tetanus / Pertussis (acellular component) vaccine (adsorbed) injection pre-filled syringes / Haemophilus type b conjugate vaccine injection vials,,,1.0
+6177041000006111,Diphtheria single antigen vaccine,,,
+6193551000006119,Diphtheria + Tetanus vaccine,,,
+6193561000006117,Diphtheria+tetanus vaccine,,,
+6193571000006112,Diphtheria + tetanus vaccine,,,
+6196181000006111,Diphtheria (adult) low dose vaccine injection suspension vial,,1.0,
+6196191000006114,Diphtheria (adult) low dose vaccine injection,,1.0,
+6569811000006114,"Diphtheria, acellular pertussis, hepatitis B and inactivated polio vaccination",,,1.0
+6569821000006118,"Diphtheria, acellular pertussis, hepatitis B and inactivated polio vaccine",,,1.0
+6825641000006118,Diphtheria + Tetanus + Pertussis + Haemophilus influenzae type B vaccine,,,1.0
+6825651000006116,Diphtheria + pertussis + tetanus + Haemophilus influenzae type b vaccine,,,1.0
+6825661000006119,Diphtheria + Haemophilus influenzae type B + Pertussis + Tetanus vaccine,,,1.0
+6825671000006114,Diphtheria + Tetanus + Pertussis +Haemophilus influenzae type B vaccine,,,1.0
+6850301000006116,Diphtheria + tetanus + inactivated poliovirus vaccine,,,
+6850311000006118,Diphtheria + tetanus + pertussis + inactivated poliovirus vaccine,,,1.0
+6850321000006114,Diphtheria + Tetanus + Pertussis + Poliomyelitis + Haemophilus influenzae type B vaccine,,,1.0
+6850331000006112,Diphtheria + tetanus + pertussis + poliomyelitis + haemophilus influenzae b vaccine,,,1.0
+6850341000006119,Diphtheria + Haemophilus influenzae type B + Pertussis + Poliomyelitis + Tetanus vaccine,,,1.0
+6850351000006117,Diphtheria + Tetanus + Pertussis + Poliomyelitis vaccine,,,1.0
+6850361000006115,Diphtheria + Pertussis + Poliomyelitis + Tetanus vaccine,,,
+6850371000006110,Diphtheria + tetanus + pertussis + poliomyelitis vaccine,,,1.0
+6850381000006113,Diphtheria / tetanus / pertussis / poliomyelitis vaccine,,,1.0
+6850391000006111,Diphtheria + Tetanus + Poliomyelitis vaccine,,,
+6850401000006113,Diphtheria + Poliomyelitis + Tetanus vaccine,,,
+6850411000006111,Diphtheria + tetanus + poliomyelitis vaccine,,,
+6850421000006115,Diphtheria / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,,,1.0
+6850431000006117,Diphtheria / tetanus / pertussis / inactivated poliomyelitis vaccine 0.5mL prefilled syringe,,,1.0
+6850441000006110,Diphtheria/tetanus/pertussis/inactivated poliomyelitis vaccine 0.5mL prefilled syringe,,,1.0
+6850451000006112,Diphtheria/tetanus/pertussis/poliomyelitis/Haemophilus influenzae b vaccine 0.5mL vial,,,1.0
+6850461000006114,Diphtheria / tetanus / pertussis / poliomyelitis / Haemophilus influenzae b vaccine 0.5mL vial,,,1.0
+6850471000006119,Diphtheria / Tetanus / Poliomyelitis (inactivated) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,,,
+6850481000006116,Diphtheria/tetanus/inactivated poliomyelitis vaccine 0.5mL prefilled syringe,,,
+6850491000006118,Diphtheria / tetanus / inactivated poliomyelitis vaccine 0.5mL prefilled syringe,,,
+6904611000006118,Diphtheria (high dose)/ tetanus/pertussis/inactivated poliomyelitis vaccine 0.5mL prefilled syringe,,,1.0
+6907091000006112,Diphtheria (low dose) / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,,1.0,1.0
+6907101000006118,Diphtheria (low dose)/ tetanus/pertussis/inactivated poliomyelitis vaccine 0.5mL prefilled syringe,,1.0,1.0
+6907111000006115,Diphtheria (low dose)/ tetanus / pertussis / inactivated poliomyelitis vaccine 0.5mL prefilled syringe,,1.0,1.0
+6926731000006118,Diphtheria single antigen vaccine,,,
+6968401000006112,Diphtheria + Tetanus + Pertussis vaccine,,,1.0
+6968411000006110,"Diphtheria and tetanus toxoids with pertussis, combined vaccine",,,1.0
+6968441000006114,Diphtheria + Pertussis + Tetanus vaccine,,,1.0
+6968451000006111,Diphtheria + pertussis + tetanus vaccine,,,1.0
+7053791000006115,Diphtheria + tetanus + pertussis + recombinant hepatitis B virus vaccine,,,1.0
+7057861000006113,Diphtheria toxoid 30 iu/tetanus toxoid 40 iu/acellular pertussis 25micrograms/recombinant hepatitis B virus surface antigen 10micrograms/inactivated poliomyelitis injection solution 0.5mL prefilled syringe,,,1.0
+7065111000006118,Diphtheria + tetanus + pertussis + poliomyelitis + recombinant hepatitis B virus + recombinant haemophilus influenzae type B vaccine,,,
+7071531000006110,Diphtheria toxoid 30 iu/tetanus toxoid 40 iu/acellular pertussis toxoid 25 micrograms/inactivated poliomyelitis 0.5mL prefilled syringe,,,
+7075441000006116,Diphtheria + tetanus + pertussis + poliomyelitis + recombinant hepatitis B virus vaccine,,,1.0
+7077511000006110,Diphtheria toxoid 30 iu/tetanus toxoid 40 iu/acellular pertussis toxoid 25micrograms injection solution 0.5mL prefilled syringe,,,1.0
+7079101000006110,Diphtheria + tetanus + haemophilus influenzae type b vaccine,,,
+7083861000006111,Diphtheria vaccine,,,
+7085071000006112,Diphtheria vaccine,,,
+7205701000006112,Diphtheria/tetanus/pertussis/inactivated poliomyelitis vaccine 0.5mL vial,,,1.0
+7366961000006111,Diphtheria + acellular pertussis adsorbed + inactivated polio + tetanus toxoids vaccine,,,1.0
+8458491000006116,"Diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination",,,1.0
+8720161000006111,Diphtheria / Tetanus / Pertussis (acellular component) vaccine (adsorbed) injection pre-filled syringes / Haemophilus type b conjugate vaccine injection vials 1 dose,,,1.0
+8720671000006113,Diphtheria / Tetanus / Pertussis (acellular component) vaccine (adsorbed) injection pre-filled syringes / Haemophilus type b conjugate vaccine injection vials 10 dose,,,1.0
+8720931000006116,Diphtheria / Tetanus / Pertussis (acellular component) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes 1 pre-filled disposable injection,,,1.0
+8721281000006118,Diphtheria / Tetanus / Pertussis (acellular component) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,,,1.0
+8721291000006115,Diphtheria / Tetanus / Pertussis (acellular component) vaccine (adsorbed) injection pre-filled syringes / Haemophilus type b conjugate vaccine injection vials,,,1.0
+8968001000006110,Diphtheria / Tetanus / Poliomyelitis (inactivated) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes 1 pre-filled disposable injection,,,
+9030081000006117,Diphtheria / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) / Haemophilus type b conjugate vaccine (adsorbed) suspension for injection 0.5ml vials 1 vial,,,1.0
+9031131000006111,Diphtheria / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) / Haemophilus type b conjugate vaccine (adsorbed) suspension for injection 0.5ml vials,,,1.0
+9035271000006116,Diphtheria / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes 1 pre-filled disposable injection,,,1.0
+9035561000006113,Diphtheria / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,,,1.0
+9104741000006115,Diphtheria (low dose) / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes 1 pre-filled disposable injection,,1.0,1.0
+9328161000006111,Diphtheria / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) / Haemophilus type b conjugate vaccine (adsorbed) powder and suspension for suspension for injection 0.5ml pre-filled syringes 1 pre-filled disposable injection,,,1.0
+9329991000006111,Diphtheria / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) / Haemophilus type b conjugate vaccine (adsorbed) powder and suspension for suspension for injection 0.5ml pre-filled syringes,,,1.0
+6968421000006119,DPT - Diphtheria + pertussis + tetanus vaccine,,,1.0
+3689881000006115,DT vaccination,,,
+3689901000006118,DT - Diphtheria and tetanus double vaccination,,,
+6184481000006113,DT/Vac/Ads,,,
+6184491000006111,DT/Vac/Ads injection suspension vial,,,
+6968431000006116,DTP - Diphtheria + tetanus + pertussis vaccine,,,1.0
+4633031000006117,"First diphtheria, pertussis and tetanus triple vaccination",,,1.0
+4633111000006110,"First diphtheria, pertussis and tetanus triple and polio vaccination",,,1.0
+4633171000006118,First diphtheria and tetanus double vaccination,,,
+4633281000006111,First diphtheria and tetanus double and polio vaccination,,,
+4633441000006116,"First Haemophilus influenzae type B and diphtheria, tetanus and pertussis vaccine given",1.0,,1.0
+4633451000006119,"First Hemophilus influenzae type B and diphtheria, tetanus and pertussis vaccine given",1.0,,1.0
+5998781000006111,"First diphtheria, tetanus, pertussis, polio and Haemophilus influenzae type B vaccination",,,1.0
+5998791000006114,"First diphtheria, tetanus, pertussis, polio and haemophilus influenzae B vaccination",,,1.0
+6831081000006115,"First diphtheria, tetanus and acellular pertussis (DTaP) vaccination",,,1.0
+6831101000006111,"First diphtheria, tetanus and acellular pertussis vaccination",,,1.0
+6831231000006114,"First diphtheria, tetanus, acellular pertussis and polio vaccination",,,1.0
+8458501000006112,"First diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination",,,1.0
+3277101000006118,Haemophilus b polysaccharide conjugate (diphtheria toxoid conjugate) vaccine,,,
+3277141000006116,Haemophilus influenzae Type b (Hib)/diphtheria/tetanus/pertussis vaccine,,,1.0
+3608021000006116,Haemophilus b oligosaccharide conjugate(diphtheria CRM>197< protein conjugate) vaccine,,,
+6022201000006111,"Haemophilus influenza B, diphtheria, tetanus and polio vaccination",,,
+6166911000006116,Haemophilus influenzae Type b (Hib)/diphtheria/tetanus/pertussis vaccine vial+prefilled syringe,,,1.0
+6166921000006112,Haemophilus influenzae Type b (Hib)/diphtheria/tetanus/pertussis vaccine prefilled syringe,,,1.0
+6166931000006110,Haemophilus influenzae Type b (Hib)/diphtheria/tetanus/pertussis vaccine vial,,,1.0
+7046101000006115,Haemophilus influenzae Type b + tetanus vaccine,,,
+7054471000006114,Haemophilus b polysaccharide 10micrograms/tetanus toxoid 30micrograms powder for injection solution vial + diluent,,,
+7068201000006117,Haemophilus influenzae type b 10micrograms/diphtheria toxoid 30 iu/tetanus toxoid 40 iu/pertussis 25micrograms/recombinant hepatitis B virus surface antigen 10micrograms/inactivated poliomyelitis injection solution 0.5mL prefilled syringe,,,
+3277111000006115,Hib polysaccharide conjugate (diphtheria toxoid conjugate) vaccine,,,
+3608031000006118,Hib oligosaccharide conjugate (diphtheria CRM>197< protein conjugate) vaccine,,,
+6166691000006117,HTIG - Tetanus vaccine,,,
+8720711000006112,Infanrix-Hib vaccine injection pack (GlaxoSmithKline UK Ltd),,,1.0
+8720751000006113,Infanrix-Hib vaccine injection pack (GlaxoSmithKline UK Ltd) 10 dose 10x(1pre-filled syringe+1vial),,,1.0
+8720981000006115,Infanrix vaccine suspension for injection 0.5ml pre-filled syringes (GlaxoSmithKline UK Ltd),,,1.0
+8721011000006118,Infanrix vaccine suspension for injection 0.5ml pre-filled syringes (GlaxoSmithKline UK Ltd) 1 pre-filled disposable injection,,,1.0
+9061351000006114,Infanrix-IPV vaccine suspension for injection 0.5ml pre-filled syringes (GlaxoSmithKline UK Ltd),,,1.0
+9061361000006111,Infanrix-IPV vaccine suspension for injection 0.5ml pre-filled syringes (GlaxoSmithKline UK Ltd) 1 pre-filled disposable injection,,,1.0
+9328171000006116,Infanrix-IPV + Hib vaccine powder and suspension for suspension for injection 0.5ml pre-filled syringes (GlaxoSmithKline UK Ltd),,,1.0
+9328181000006118,Infanrix-IPV + Hib vaccine powder and suspension for suspension for injection 0.5ml pre-filled syringes (GlaxoSmithKline UK Ltd) 1 pre-filled disposable injection,,,1.0
+3133021000006116,Pertussis immunization,,,1.0
+3133031000006118,Pertussis immunisation,,,1.0
+3500821000006115,Pertussis vaccine,,,1.0
+6569331000006112,Pertussis vaccine,,,1.0
+5577281000006116,Pre-school diphtheria and tetanus double vaccination,,,
+5646661000006119,Pre-school diphtheria and tetanus double and polio vaccination,,,
+7047311000006117,Recombinant hepatitis B virus surface antigen 10micrograms/diphtheria toxoid 30 iu/tetanus toxoid 40 iu/acellular pertussis 25micrograms injection solution 0.5mL prefilled syringe,,,1.0
+4633051000006112,"Second diphtheria, pertussis and tetanus triple vaccination",,,1.0
+4633131000006116,"Second diphtheria, pertussis and tetanus triple and polio vaccination",,,1.0
+4633191000006117,Second diphtheria and tetanus double vaccination,,,
+4633301000006110,Second diphtheria and tetanus double and polio vaccination,,,
+4633471000006112,"Second Hemophilus influenzae type B and diphtheria, tetanus and pertussis vaccine given",1.0,,1.0
+4633481000006110,"Second Haemophilus influenzae type B and diphtheria, tetanus and pertussis vaccine given",1.0,,1.0
+5998811000006113,"Second diphtheria, tetanus, pertussis, polio and Haemophilus influenzae type B vaccination",,,1.0
+5998821000006117,"Second diphtheria, tetanus, pertussis, polio and haemophilus influenzae B vaccination",,,1.0
+6831111000006114,"Second diphtheria, tetanus and acellular pertussis (DTaP) vaccination",,,1.0
+6831131000006115,"Second diphtheria, tetanus and acellular pertussis vaccination",,,1.0
+6831251000006119,"Second diphtheria, tetanus, acellular pertussis and polio vaccination",,,1.0
+8458521000006119,"Second diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination",,,1.0
+4400871000006113,Tetanus immunization,,,
+4400881000006111,Tetanus immunisation,,,
+4633251000006115,Tetanus and low dose diphtheria double vaccination,,,
+6166681000006115,Tetanus vaccine,,,
+6166731000006113,Tetanus vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,,,
+6399461000006113,"Tetanus toxoid, adsorbed 20u/mL 0.5mL injection solution ampoule",,,
+6399471000006118,"Tetanus toxoid, adsorbed 10unt/0.5mL injection",,,
+6399481000006115,"Tetanus toxoid, adsorbed 20u/mL 0.5mL injection solution ampule",,,
+6825701000006110,Tetanus vaccine,,,
+6904641000006119,Tetanus toxoid/reduced diphtheria toxoid/acellular pertussis vaccine injection 0.5mL vial,,,
+8047301000006113,Tetanus toxoid vaccination given,1.0,,
+8585981000006117,Tetanus vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes 1 pre-filled disposable injection,,,
+8585991000006119,Tetanus vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes 10 pre-filled disposable injection,,,
+4633071000006119,"Third diphtheria, pertussis and tetanus triple vaccination",,,1.0
+4633151000006111,"Third diphtheria, pertussis and tetanus triple and polio vaccination",,,1.0
+4633211000006116,Third diphtheria and tetanus double vaccination,,,
+4633321000006117,Third diphtheria and tetanus double and polio vaccination,,,
+4633501000006117,"Third Haemophilus influenzae type B and diphtheria, tetanus and pertussis vaccine given",1.0,,1.0
+4633511000006119,"Third Hemophilus influenzae type B and diphtheria, tetanus and pertussis vaccine given",1.0,,1.0
+5998841000006112,"Third diphtheria, tetanus, pertussis, polio and Haemophilus influenzae type B vaccination",,,1.0
+6831141000006113,"Third diphtheria, tetanus and acellular pertussis (DTaP) vaccination",,,
+6831161000006112,"Third diphtheria, tetanus and acellular pertussis vaccination",,,
+6831271000006112,"Third diphtheria, tetanus, acellular pertussis and polio vaccination",,,1.0
+8458551000006111,"Third diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination",,,1.0
+8047311000006111,Vaccination for tetanus toxoid given,1.0,,
+3133011000006112,Whooping cough immunization,,,1.0
+3133041000006111,Whooping cough immunisation,,,1.0
+3500831000006117,Whooping-cough vaccine,,,1.0
+200604011,Diphtheria vaccination,,,
+264091013,First diphtheria vaccination,,,
+264092018,Second diphtheria vaccination,,,
+264093011,Third diphtheria vaccination,,,
+264094017,Booster diphtheria vaccination,,1.0,
+264095016,Low dose diphtheria vaccination,,1.0,
+264096015,Diphtheria vaccination NOS,,,
+65969010,Pertussis vaccination,,,1.0
+1229516015,Whooping cough vaccination,,,1.0
+264097012,First pertussis vaccination,,,1.0
+264098019,Second pertussis vaccination,,,1.0
+264099010,Third pertussis vaccination,,,1.0
+441027014,Pertussis booster vaccination,,1.0,1.0
+264100019,Pertussis vaccination NOS,,,1.0
+1073019,Tetanus vaccination,,,
+264101015,First tetanus vaccination,,,
+264102010,Second tetanus vaccination,,,
+264103017,Third tetanus vaccination,,,
+264104011,Booster tetanus vaccination,,1.0,
+264105012,Final tetanus immunisation,,,
+264107016,Tetanus vaccination NOS,,,
+977611000006115,"Diphtheria tetanus and five component acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination",,,1.0
+977621000006111,"First diphtheria tetanus and five component acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination",,,1.0
+977631000006114,"Second diphtheria tetanus and five component acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination",,,1.0
+977641000006116,"Third diphtheria tetanus and five component acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination",,,1.0
+1659191000006114,"Booster diphtheria tetanus and five component acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination",,1.0,1.0
+87921000006117,"Vaccination for diphtheria, pertussis, and tetanus",,,1.0
+264199013,First triple vaccination - DTP,,,1.0
+264200011,Second triple vaccination-DTP,,,1.0
+264203013,Third triple vaccination - DTP,,,1.0
+838471000006118,"Booster diphtheria, tetanus and acellular pertussis (DTaP) vaccination",,1.0,1.0
+2478436013,First DTaP vaccination,,,1.0
+2478437016,Second DTaP vaccination,,,1.0
+2478438014,Third DTaP vaccination,,,1.0
+1221459014,Triple - DTP - vaccination NOS,,,1.0
+264206017,DTP (triple)+polio vaccination,,,1.0
+760001000006113,First DTP (triple)+polio vaccination,,,1.0
+157181000006116,Second DTP (triple)+polio vaccination,,,1.0
+106061000006118,Third DTP (triple)+polio vaccination,,,1.0
+838481000006115,"Booster diphtheria, tetanus, acellular pertussis (DTaP) and polio vaccination",,1.0,1.0
+966291000006115,"First diphtheria, tetanus, acellular pertussis (DTaP) and polio vaccination",,,1.0
+966301000006119,"Second diphtheria, tetanus, acellular pertussis (DTaP) and polio vaccination",,,1.0
+966311000006116,"Third diphtheria, tetanus, acellular pertussis (DTaP) and polio vaccination",,,1.0
+977651000006119,"Low dose diphtheria, tetanus, five component acellular pertussis and inactivated polio vaccination",,1.0,1.0
+1540611000006110,"Booster diphtheria, tetanus, acellular pertussis and inactivated polio vaccination",,1.0,1.0
+631711000006119,"Diphtheria, pertussis and tetanus triple and polio vaccination",,,
+627931000006117,Tetanus diphtheria vaccination,,,
+411803015,Pre-school - DT - vaccination,,,
+264219018,First double - DT -vaccination,,,
+264222016,Second double-DT-vaccination,,,
+264224015,Third double - DT -vaccination,,,
+520791000006110,Booster double -DT- vaccination,,1.0,
+264229013,Low dose diphtheria DT vaccination,,1.0,
+1488874016,First tetanus and low dose diphtheria vaccination,,1.0,
+1488875015,Second tetanus and low dose diphtheria vaccination,,1.0,
+1488876019,Third tetanus and low dose diphtheria vaccination,,1.0,
+1488877011,Booster tetanus and low dose diphtheria vaccination,,1.0,
+1221462012,Double - DT - vaccination NOS,,,
+405363012,DT (double)+polio vaccination,,,
+418940016,Preschool-DT+polio-vaccination,,,
+418939018,Pre-school DT + polio vaccin.,,,
+759991000006115,First DT (double)+polio vaccination,,,
+157171000006119,Second DT (double)+polio vaccination,,,
+106051000006115,Third DT (double)+polio vaccination,,,
+520861000006112,Booster DT(double)+polio vaccination,,1.0,
+977661000006117,"Low dose diphtheria, tetanus and inactivated polio vaccination",,1.0,
+985451000006119,"First low dose diphtheria, tetanus and inactivated polio vaccination",,1.0,
+985461000006117,"Second low dose diphtheria, tetanus and inactivated polio vaccination",,1.0,
+985471000006112,"Third low dose diphtheria, tetanus and inactivated polio vaccination",,1.0,
+985481000006110,"First booster low dose diphtheria, tetanus and inactivated polio vaccination",,1.0,
+985491000006113,"Second booster low dose diphtheria, tetanus and inactivated polio vaccination",,1.0,
+631691000006117,DT (double) + polio vacc. NOS,,,
+110511000006113,Tetanus and polio vaccination,,,
+760211000006116,First tetanus and polio vaccination,,,
+157361000006112,Second tetanus and polio vaccination,,,
+106191000006110,Third tetanus and polio vaccination,,,
+520911000006119,Booster tetanus and polio vaccination,,1.0,
+264252012,Tetanus + polio vacc. NOS,,,
+264228017,Tetanus/low dose diphtheria vaccination,,,
+107801000006110,TD - Tetanus/low dose diphtheria vaccination,,,
+760031000006117,1st HiB and DTP vaccine given,1.0,,1.0
+157211000006117,2nd HiB and DTP vaccine given,1.0,,1.0
+106091000006114,3rd HiB and DTP vaccine given,1.0,,1.0
+453900012,First DTP polio and Hib vaccination,,,1.0
+453903014,Second DTP polio and Hib vaccination,,,1.0
+453908017,Third DTP polio and Hib vaccination,,,1.0
+457272010,Fourth DTP polio and Hib vaccination,,,1.0
+1659211000006110,"Booster diphtheria, tetanus, acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination",,1.0,1.0
+1700991000006118,"Booster diphtheria tetanus and three component acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination",,1.0,1.0
+2113731000033117,Boostrix-Ipv,,,1.0
+837721000033110,*Dtp Vaccine,,,1.0
+112821000033119,Pertussis Vaccine,,,1.0
+673521000033117,Diphtheria And Tetanus Vaccine,,,
+855331000006115,1st HiB/DTP (triple) & polio vaccine,,,1.0
+855361000006112,1st HiB/DTP (triple) vaccination,,,1.0
+855611000006119,2nd HiB/DTP (triple) & polio vaccine,,,1.0
+855631000006113,2nd HiB/DTP (triple) vaccination,,,1.0
+855811000006118,3rd HiB/DTP (triple) + polio vaccine,,,1.0
+855861000006115,3rd HiB/DTP (triple) vaccination,,,1.0
+856781000006113,HiB/DTP(triple) + polio vaccine,,,1.0
+856801000006112,HiB/DTP(triple) vaccination,,,1.0
+970981000006115,1st DTaP/IPV/Hib vaccination,,,1.0
+970991000006117,2nd DTaP/IPV/Hib vaccination,,,1.0
+971001000006116,3rd DTaP/IPV/Hib vaccination,,,1.0
+1626251000006117,"4th (booster) dipht tet acell pertus, haem influ b, IPV",,,1.0
+1990831000006118,Booster DT(double)+polio vacc given by other healthcare provider,,1.0,
+970971000006118,DTaP/IPV/Hib vaccination,,,1.0
+971011000006118,dTaP/IPV vaccination,,,1.0
+1728451000006110,"DTPa, IPV, Hib and Men C vaccination",,,1.0
+1837021000006114,DTaP/IPV/Hib/HepB vaccination,,,1.0
+1728461000006112,"First DTPa, IPV, Hib and Men C vaccination",,,1.0
+1837031000006112,First DTaP/IPV/Hib/HepB vaccination,,,1.0
+958141000006112,First DTaP vaccination,,,1.0
+958201000006117,First DTaP and polio vaccination,,,1.0
+1728471000006117,"Second DTPa, IPV, Hib and Men C vaccination",,,1.0
+958151000006114,Second DTaP vaccination,,,1.0
+958191000006115,Second DTaP and polio vaccination,,,1.0
+1837041000006119,Second DTaP/IPV/Hib/HepB vaccination,,,1.0
+1728481000006119,"Third DTPa, IPV, Hib and Men C vaccination",,,1.0
+1837051000006117,Third DTaP/IPV/Hib/HepB vaccination,,,1.0
+958161000006111,Third DTaP vaccination,,,1.0
+958181000006118,Third DTaP and polio vaccination,,,1.0
+904301000006113,1st tetanus/low dose diphtheria vaccination,,1.0,
+904311000006111,2nd tetanus/low dose diphtheria vaccination,,1.0,
+904321000006115,3rd tetanus/low dose diphtheria vaccination,,1.0,
+904331000006117,Booster tetanus/low dose diphtheria vaccination,,1.0,
+857351000006116,Pre-school triple DTaP combined vaccination,,,1.0
+904251000006118,Pre-school triple DTaP+polio vaccination,,,1.0
+1978951000006114,2nd dTpa vaccination (used as 2nd dT substitute),,,1.0
+1978941000006112,3rd dTpa vaccination (used as 3rd dT substitute),,,1.0
+1871171000006118,Booster dTpa vaccination,,,1.0
+1871181000006115,Single dTpa vaccination (used as 1st dT substitute),,,1.0
+1871811000006117,Single dTpa (used as booster),,1.0,1.0
+1990181000006114,Single dTpa vaccination (used as 2nd dT substitute),,,1.0
+1990201000006110,Single dTpa vaccination (used as 3rd dT substitute),,,1.0
+926581000006110,First DTP polio and Hib vaccination,,,1.0
+926591000006113,Second DTP polio and Hib vaccination,,,1.0
+926601000006117,Third DTP polio and Hib vaccination,,,1.0
+924801000006113,Boost double -DT- vaccination,,1.0,
+924861000006114,Booster DT(double)+polio vacc.,,1.0,
+924911000006116,Booster tetanus + polio vacc.,,1.0,
+924071000006114,Booster diphtheria vaccination,,1.0,
+924161000006115,Booster tetanus vaccination,,1.0,
+924031000006111,Diphtheria vaccination,,,
+924761000006116,Double - DT - vaccination,,,
+924721000006110,DTP (triple)+polio vaccination,,,
+924821000006115,DT (double)+polio vaccination,,,
+924691000006117,First triple vaccination - DTP,,,1.0
+924731000006113,First DTP (triple)+polio vacc.,,,1.0
+924771000006111,First double - DT -vaccination,,,
+924831000006117,First DT (double)+polio vacc.,,,
+924881000006116,First tetanus + polio vacc.,,,
+924991000006114,First HiB and DTP vaccine given,,,1.0
+924041000006118,First diphtheria vaccination,,,
+924091000006110,First pertussis vaccination,,,1.0
+924131000006112,First tetanus vaccination,,,
+924811000006111,Low dose diphtheria DT vaccination,,1.0,
+924081000006112,Pertussis vaccination,,,1.0
+924741000006115,Second DTP (triple)+polio vacc,,,1.0
+924781000006114,Second double-DT-vaccination,,,
+924841000006110,Second DT (double)+polio vacc.,,,
+924891000006118,Second tetanus + polio vacc.,,,
+925001000006119,Second HiB and DTP vaccine given,1.0,,1.0
+924051000006116,Second diphtheria vaccination,,,
+924101000006116,Second pertussis vaccination,,,1.0
+924141000006119,Second tetanus vaccination,,,
+924701000006117,Second triple vaccination-DTP,,,1.0
+924121000006114,Tetanus vaccination,,,
+924871000006119,Tetanus + polio vaccination,,,
+924951000006115,Tetanus/low dose diphtheria vaccination,,1.0,
+924061000006119,Third diphtheria vaccination,,,
+924851000006112,Third DT (double)+polio vacc.,,,
+924901000006119,Third tetanus + polio vacc.,,,
+925011000006116,Third HiB and DTP vaccine given,1.0,,1.0
+924111000006118,Third pertussis vaccination,,,
+924151000006117,Third tetanus vaccination,,,
+924711000006119,Third triple vaccination - DTP,,,
+924751000006118,Third DTP (triple)+polio vacc.,,,1.0
+924791000006112,Third double - DT -vaccination,,,
+924681000006115,Triple - DTP - vaccination,,,1.0
+460210010,[V]Diphtheria vaccination,,,
+460211014,[V]Pertussis vaccination,,,1.0
+1227543018,[V]Whooping cough vaccination,,,1.0
+460212019,[V]Tetanus toxoid vaccination,,,
+460241011,"[V]Diphtheria-tetanus-pertussis, combined (DTP) vaccination",,,1.0
+338541000006113,[V]Diphtheria-tetanus-pertussis with typhoid-paratyphoid (DTP + TAB) vaccination,,,1.0
+338531000006115,"Diphtheria, pertussis and tetanus triple and polio vaccination",,,1.0
+1845691000006110,"Post-exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination programme enhanced services administration",1.0,,1.0
+3746911000006111,Administration of diphtheria toxoid,1.0,,
+11837781000006114,Repevax vaccine suspension for injection 0.5ml pre-filled syringes (Sanofi Pasteur),,,1.0
+11856361000006115,Revaxis vaccine suspension for injection 0.5ml pre-filled syringes (Sanofi Pasteur),,,1.0
+9030091000006119,Pediacel vaccine suspension for injection 0.5ml vials (sanofi pasteur MSD Ltd),,,1.0
+8968011000006113,Revaxis vaccine suspension for injection 0.5ml pre-filled syringes (sanofi pasteur MSD Ltd),,,1.0
+9104861000006114,Repevax vaccine suspension for injection 0.5ml pre-filled syringes (sanofi pasteur MSD Ltd),,,1.0
+12457431000006111,[V]Diphtheria-tetanus-pertussis with poliomyelitis (DTP + polio) vaccination,,,1
+13484251000006113,Administration of third dose of diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccine,1,,1
+13484941000006117,"Diphtheria, poliomyelitis, and tetanus vaccination",,,
+13486841000006119,Administration of first dose of low dose diphtheria and tetanus vaccine,1,,
+13486961000006111,Administration of booster dose of low dose diphtheria and tetanus vaccine,1,1,
+13487001000006111,Administration of first dose of diphtheria and acellular pertussis and poliomyelitis and tetanus vaccine,1,,1
+13487041000006113,Administration of second dose of diphtheria and acellular pertussis and poliomyelitis and tetanus vaccine,1,,1
+13487081000006119,Administration of third dose of diphtheria and acellular pertussis and poliomyelitis and tetanus vaccine,1,,1
+13487121000006117,Administration of low dose diphtheria and inactivated poliomyelitis and tetanus vaccine,1,,
+13487161000006111,Administration of diphtheria and acellular pertussis and inactivated poliomyelitis and tetanus vaccine,1,,1
+13959101000006112,"Administration of first dose of diphtheria, pertussis, and tetanus vaccine",1,,1
+13959141000006114,"Administration of second dose of diphtheria, pertussis, and tetanus vaccine",1,,1
+13959181000006115,Administration of booster dose of diphtheria and tetanus vaccine,1,1,
+13959191000006117,Diphtheria and tetanus booster immunisation,,1,
+13959201000006119,Diphtheria and tetanus booster vaccination,,1,
+13959431000006114,Administration of second dose of diphtheria and tetanus vaccine,1,,
+13959451000006119,Second diphtheria and tetanus vaccination,,,
+13959471000006112,Administration of first dose of diphtheria and tetanus vaccine,1,,
+13959491000006113,First diphtheria and tetanus vaccination,,,
+13960251000006119,"Administration of third dose of diphtheria, pertussis, and tetanus vaccine",1,,1
+13960291000006113,"Administration of booster dose of diphtheria, poliomyelitis, and tetanus vaccine",,1,
+13960301000006114,"Diphtheria, poliomyelitis, and tetanus booster vaccination",,1,
+13960311000006112,"Diphtheria, poliomyelitis, and tetanus booster immunisation",,1,
+13961981000006113,"Administration of second dose of diphtheria, poliomyelitis, and tetanus vaccine",1,,
+13962021000006115,"Administration of first dose of diphtheria, poliomyelitis, and tetanus vaccine",1,,
+13962061000006114,"Administration of third dose of diphtheria, poliomyelitis, and tetanus vaccine",1,,
+13962181000006115,Administration of second dose of diphtheria and pertussis and poliomyelitis and tetanus vaccine,1,,1
+13962221000006112,Administration of third dose of diphtheria and pertussis and poliomyelitis and tetanus vaccine,1,,1
+13962261000006118,Administration of first dose of diphtheria and pertussis and poliomyelitis and tetanus vaccine,1,,1
+13968051000006114,Administration of third dose of diphtheria and tetanus vaccine,1,,
+13968061000006111,Third diphtheria and tetanus vaccination,,,
+13968091000006115,Preschool administration of diphtheria and tetanus vaccine,,,
+13968131000006118,"Preschool administration diphtheria, poliomyelitis, and tetanus vaccine",,,
+13972991000006112,Tetanus vaccine,,,
+13973301000006110,Pertussis vaccine,,,1
+13975001000006112,Diphtheria and acellular pertussis and poliomyelitis and tetanus vaccine,,,1
+13975131000006115,Diphtheria and hepatitis B and acellular pertussis and inactivated poliomyelitis and tetanus vaccine,,,1
+13975181000006119,Low dose diphtheria and acellular pertussis and inactivated poliomyelitis and tetanus vaccine,,,1
+13978951000006116,Tetanus toxoid vaccine,,,
+14057831000006110,Administration of pertussis vaccine,1,,1
+14060501000006114,Administration of diphtheria and tetanus vaccine,1,,
+14060821000006118,Administration of diphtheria vaccine,1,,
+14067641000006113,Administration of tetanus vaccine,1,,
+14068961000006118,Administration of first dose of diphtheria vaccine,1,,
+14068991000006114,Administration of second dose of diphtheria vaccine,1,,
+14069021000006116,Administration of third dose of diphtheria vaccine,1,,
+14069051000006113,Administration of booster dose of diphtheria vaccine,1,1,
+14069091000006119,Administration of low dose diphtheria vaccine,1,,
+14069121000006115,Administration of first dose of pertussis vaccine,1,,1
+14069151000006112,Administration of second dose of pertussis vaccine,1,,1
+14069181000006116,Administration of third dose of pertussis vaccine,1,,1
+14069211000006117,Administration of first dose of tetanus vaccine,1,,
+14069241000006118,Administration of second dose of tetanus vaccine,1,,
+14069271000006114,Administration of third dose of tetanus vaccine,1,,
+14069301000006111,Administration of booster dose of tetanus vaccine,1,1,
+14069341000006113,Administration of final dose of tetanus vaccine,1,,
+14070331000006117,Administration of first dose of poliomyelitis and tetanus vaccine,1,,
+14070371000006119,Administration of second dose of poliomyelitis and tetanus vaccine,1,,
+14070411000006118,Administration of third dose of poliomyelitis and tetanus vaccine,1,,
+14070451000006117,Administration of booster dose of poliomyelitis and tetanus vaccine,1,1,
+14074851000006111,Administration of poliomyelitis and tetanus vaccine,1,,
+14076841000006118,Administration of booster dose of pertussis vaccine,1,1,
+14077241000006119,Administration of first dose of diphtheria and Haemophilus influenzae type B and pertussis and poliomyelitis and tetanus vaccine,1,,1
+14077281000006113,Administration of second dose of diphtheria and Haemophilus influenzae type B and pertussis and poliomyelitis and tetanus vaccine,1,,1
+14077321000006119,Administration of third dose of diphtheria and Haemophilus influenzae type B and pertussis and poliomyelitis and tetanus vaccine,1,,1
+14077571000006113,Administration of diphtheria and Haemophilus influenzae type B and pertussis and poliomyelitis and tetanus vaccine,1,,1
+14077791000006118,Administration of fourth dose of diphtheria and Haemophilus influenzae type B and pertussis and poliomyelitis and tetanus vaccine,1,,1
+14079691000006117,Administration of booster dose of diphtheria and acellular pertussis and tetanus vaccine,1,,1
+14080381000006110,"Administration of diphtheria, pertussis, and tetanus vaccine",1,,1
+14082481000006117,Administration of first dose of diphtheria and acellular pertussis and tetanus vaccine,1,,
+14082521000006117,Administration of second dose of diphtheria and acellular pertussis and tetanus vaccine,1,,
+14082561000006111,Administration of third dose of diphtheria and acellular pertussis and tetanus vaccine,1,,
+14082691000006116,Administration of diphtheria and Haemophilus influenza B and five component acellular pertussis and inactivated poliomyelitis and tetanus vaccine,1,,1
+14082751000006117,Administration of first dose of diphtheria and Haemophilus influenza B and five component acellular pertussis and inactivated poliomyelitis and tetanus vaccine,1,,1
+14082791000006111,Administration of low dose diphtheria and acellular pertussis five component and inactivated poliomyelitis and tetanus vaccine,1,,1
+14083011000006112,Administration of second dose of diphtheria and Haemophilus influenza B and five component acellular pertussis and inactivated poliomyelitis and tetanus vaccine,1,,1
+14083051000006113,Administration of third dose of diphtheria and Haemophilus influenza B and five component acellular pertussis and inactivated poliomyelitis and tetanus vaccine,1,,1
+14083221000006113,Administration of first dose of low dose diphtheria and inactivated poliomyelitis and tetanus vaccine,1,,
+14083371000006117,Administration of first booster of low dose diphtheria and inactivated poliomyelitis and tetanus vaccine,1,1,
+14083421000006112,Administration of second booster of low dose diphtheria and inactivated poliomyelitis and tetanus vaccine,1,1,

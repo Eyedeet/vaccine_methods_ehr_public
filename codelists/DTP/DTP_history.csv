@@ -1,0 +1,81 @@
+﻿MedCodeId,Term,pertussis,adverse,history,poisoning
+5773261000006118,Accidental diphtheria vaccine poisoning,,,,1.0
+5773411000006115,Accidental tetanus vaccine poisoning,,,,1.0
+4911771000006113,Adverse reaction caused by tetanus vaccine,,1.0,,
+4911791000006114,Adverse reaction caused by diphtheria vaccine,,1.0,,
+5773271000006113,Intentional diphtheria vaccine poisoning,,,,1.0
+5773421000006111,Intentional tetanus vaccine poisoning,,,,1.0
+2695141000006112,Poisoning by tetanus vaccine,,,,1.0
+2695161000006111,Poisoning caused by tetanus vaccine,,,,1.0
+2724651000006116,Poisoning by diphtheria vaccine,,,,1.0
+2724671000006114,Poisoning caused by diphtheria vaccine,,,,1.0
+3335891000006118,Poisoning by mixed bacterial vaccine except combinations with a pertussis component,1.0,,,1.0
+6019451000006111,"Poisoning by diphtheria, tetanus, pertussis and polio vaccine",1.0,,,1.0
+6019481000006115,"Poisoning caused by diphtheria, tetanus, pertussis and polio vaccine",1.0,,,1.0
+7510081000006119,"Post diphtheria,tetanus and pertussis vaccination fever",1.0,1.0,,
+7510091000006116,Post diphtheria vaccination fever,,1.0,,
+7510101000006110,Post tetanus vaccination fever,,1.0,,
+7510111000006113,Post pertussis vaccination fever,1.0,1.0,,
+8283961000006115,"Post exposure DTaP/IPV (diphtheria, tetanus, acellular pertussis and inactivated polio vaccination)",1.0,1.0,,
+5722771000006113,Reaction to pertussis vaccine,1.0,1.0,,
+4370431000006114,Tetanus toxoid immunisation reaction,,1.0,,
+4370441000006116,Tetanus toxoid immunization reaction,,1.0,,
+4370451000006119,"Tetanus toxoid immunization reaction, function",,1.0,,
+5773431000006114,Tetanus vaccine poisoning of undetermined intent,,,,1.0
+1843641000006119,"Post exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination",1.0,1.0,,
+1843831000006111,"Post exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination invitation",1.0,1.0,,
+1994051000006112,A&E treatment: tetanus - tetanus toxoid booster,,,1.0,
+1994061000006114,A&E treatment: tetanus - combined tetanus/diphtheria booster,,,1.0,
+5809111000006116,Diphtheria vaccines allergy,,1.0,,
+5809121000006112,Diphtheria single antigen vaccine allergy,,1.0,,
+5809131000006110,Diphtheria and tetanus vaccine allergy,,1.0,,
+5809141000006117,Diphtheria and tetanus and pertussis vaccine allergy,,1.0,,
+5809201000006112,Pertussis vaccine allergy,1.0,1.0,,
+5809271000006118,Tetanus vaccine allergy,,1.0,,
+1845691000006110,"Post-exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination programme enhanced services administration",1.0,,1.0,
+1023231000006112,Adverse reaction to *Dtp Vaccine,1.0,1.0,,
+1132241000006116,Adverse reaction to *Dtp Vaccine,1.0,1.0,,
+1024951000006113,"Adverse reaction to Diphtheria, Tetanus And Acellular Pertussis Vaccine",1.0,1.0,,
+1026901000006118,Adverse reaction to Pertussis Vaccine,1.0,1.0,,
+1014831000006116,Adverse reaction to Adsorbed Diphtheria And Tetanus Vaccine Bp,,1.0,,
+1014851000006111,Adverse reaction to Adsorbed Tetanus Vaccine Bp,,1.0,,
+1103921000006118,"Adverse reaction to Diphtheria,Tetanus And Pertussis Vaccine Bp",1.0,1.0,,
+1059011000006114,"Adverse reaction to Diphtheria Vaccine for Adults and Adolescents, Adsorbed",,1.0,,
+1062331000006117,"Adverse reaction to Diphtheria Vaccine For Adults, Adsorbed",,1.0,,
+1062341000006110,"Adverse reaction to Diphtheria Vaccine, Adsorbed",,1.0,,
+1085951000006115,Adverse reaction to Diphtheria And Tetanus Vaccine,,1.0,,
+1915221000006114,Adverse reaction to Boostrix-Ipv,1.0,1.0,,
+296876016,Post tetanus vaccination encephalitis,,1.0,,
+296877013,Post diphtheria vaccination encephalitis,,1.0,,
+296878015,Post pertussis vaccination encephalitis,1.0,1.0,,
+1221060013,Diphtheria vaccine poisoning,,,,1.0
+1225255012,Pertussis vaccine poisoning,1.0,,,1.0
+324460014,"Mixed vaccine poisoning, excluding pertussis",,,,1.0
+456417017,"Diptheria,tetanus,pertussis and polio vaccine poisoning",1.0,,,1.0
+331488012,Adverse reaction to tetanus vaccine,,1.0,,
+902441000006110,Reaction: tetanus vaccine,,1.0,,
+331489016,Adverse reaction to diphtheria vaccine,,1.0,,
+902451000006112,Reaction: diphtheria vaccine,,1.0,,
+470451000006115,"Adverse reaction to pertussis vaccine,including combinations",1.0,1.0,,
+902461000006114,Reaction: pertussis vaccine,1.0,1.0,,
+428661000006115,[X]Tetanus vaccine causing adverse effects in therapeut use,,1.0,,
+358161000006116,[X] Adverse reaction to tetanus vaccine,,1.0,,
+377061000006116,[X]Diphtheria vaccine caus adverse effects in therapeut use,,1.0,,
+353481000006110,[X] Adverse reaction to diphtheria vaccine,,1.0,,
+420561000006118,Pertussis vaccine adverse reaction,,1.0,,
+356761000006118,"[X] Adverse reaction to pertussis vaccine, incl combinations",1.0,1.0,,
+350741000006119,"[X] Adverse react to mixed bacterial vacc, without pertussis",,1.0,,
+2335841000000112,Pertussis vaccination given by other healthcare provider,1.0,1.0,,
+13806151000006115,Allergy to diphtheria vaccine,,1,,
+13806171000006113,Allergy to diphtheria and tetanus vaccine,,1,,
+13806241000006114,Allergy to pertussis vaccine,1,1,,
+13806301000006116,Allergy to tetanus vaccine,,1,,
+14076021000006115,Adverse reaction to diphtheria and tetanus vaccine,,1,,
+14076041000006110,"Adverse reaction to diphtheria, pertussis, and tetanus vaccine",1,1,,
+14076111000006110,Adverse reaction to pertussis vaccine,1,1,,
+14076541000006115,Allergy to diphtheria and pertussis and tetanus vaccine,1,1,,
+6019471000006118,"Diptheria, tetanus, pertussis and polio vaccine poisoning",1,,,1
+3335901000006119,"Mixed bacterial vaccine poisoning, excluding pertussis",,,,1
+1220613014,Tetanus vaccine poisoning,,,,1
+1230998011,"Mixed bacterial vaccine poisoning, excluding pertussis",,,,1
+469231000006114,"Adverse reaction to mixed bacterial vacc, without pertussis",,1,,
